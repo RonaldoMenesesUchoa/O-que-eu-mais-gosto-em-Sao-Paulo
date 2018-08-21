@@ -1,0 +1,37 @@
+.container{
+    margin: 0 auto;
+    width: 940px;
+}
+
+body{
+  background: #FFF1D6;
+  font-family: lucida grande;
+  line-height: 1.5;
+}
+
+.place{
+  background-color: #fff;
+  border-color: #CCC #999 #999 #CCC;
+  border: 1px solid #CCC;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.place h2{
+  border-bottom: 1px dashed #7E9F19;
+}
+
+.place a{
+  color: #2C88A7;
+  font-weight: bold;
+}
+
+h1 a{
+  color: #7E9F19;
+  text-decoration: none;
+}
+
+h1 a:hover{
+  background: #7E9F19;
+  color: #fff;
+}
